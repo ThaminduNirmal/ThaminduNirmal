@@ -1,27 +1,13 @@
 <div align="center">
   <h1>
-    <span style="display: inline-block; animation: fadeInUp 1s ease-out;">👋 Hi there, I'm</span>
-    <br>
-    <span style="display: inline-block; animation: fadeInUp 1s ease-out 0.3s both; color: #58a6ff; font-weight: bold;">Thamindu Nirmal</span>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="wave"/>
+    Hi there, I'm <span style="color: #58a6ff; font-weight: bold;">Thamindu Nirmal</span>
   </h1>
   
-  <p style="animation: fadeInUp 1s ease-out 0.6s both;">
+  <p>
     <strong>BSc (IT) & BEng (SE) Undergraduate | Software Engineering Internship-Seeking</strong>
   </p>
 </div>
-
-<style>
-@keyframes fadeInUp {
-  from {
-    opacity: 0;
-    transform: translateY(20px);
-  }
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
-</style>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thamindu-nirmal)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thamindusrinirmal1@gmail.com)
