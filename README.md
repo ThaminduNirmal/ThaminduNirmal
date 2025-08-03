@@ -1,6 +1,7 @@
 <div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTBhanUyaHIxMmNremR2NjBqaWZlZzJqcmdhdWpqM2F6bmN5ZGY4NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GRPy8MKag9U1U88hzY/giphy.gif" width="200px" alt="animated header"/>
   <h1>
-    <img src="https://media.giphy.com/media/3o7abGQaOwdpCkckfu/giphy.gif" width="30px" alt="wave"/>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="wave"/>
     Hi there, I'm <span style="color: #58a6ff; font-weight: bold;">Thamindu Nirmal</span>
   </h1>
   
@@ -14,7 +15,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="25px" alt="rocket"/> About Me
+## 🚀 About Me
 
 Creative and visionary dual degree undergraduate specializing in **full-stack** and **mobile application development**. Experienced in Next.js, Flutter, Spring Boot, REST APIs, and UI/UX through academic and industry-collaborative projects. Demonstrated leadership via national IEEE roles and impactful technical events.
 
@@ -22,7 +23,7 @@ Creative and visionary dual degree undergraduate specializing in **full-stack** 
 
 ---
 
-## <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="25px" alt="tools"/> Tech Stack
+## 🛠️ Tech Stack
 
 ### **Web & Frontend**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -48,7 +49,7 @@ Creative and visionary dual degree undergraduate specializing in **full-stack** 
 
 ---
 
-## <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="25px" alt="target"/> Featured Projects
+## 🎯 Featured Projects
 
 ### **Shiftly - Employee Management System**
 *Jan 2024 - Present*
@@ -117,7 +118,7 @@ Hardware project: Low-cost microcontroller-based ventilator for under-resourced 
 
 ---
 
-## <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="25px" alt="education"/> Education
+## 📚 Education
 
 - **BSc (Hons) in Information Technology** - University of Moratuwa *(2023 - Reading)*
 - **BEng (Hons) in Software Engineering** - University of Westminster (UK) *(2022 - Reading)*
