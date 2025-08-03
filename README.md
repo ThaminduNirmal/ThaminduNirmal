@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 About Me
+## <img src="https://media.giphy.com/media/26ufcVAyRgqzO7mBy/giphy.gif" width="25px" alt="rocket"/> About Me
 
 Creative and visionary dual degree undergraduate specializing in **full-stack** and **mobile application development**. Experienced in Next.js, Flutter, Spring Boot, REST APIs, and UI/UX through academic and industry-collaborative projects. Demonstrated leadership via national IEEE roles and impactful technical events.
 
@@ -22,7 +22,7 @@ Creative and visionary dual degree undergraduate specializing in **full-stack** 
 
 ---
 
-## 🛠️ Tech Stack
+## <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="25px" alt="tools"/> Tech Stack
 
 ### **Web & Frontend**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -48,7 +48,7 @@ Creative and visionary dual degree undergraduate specializing in **full-stack** 
 
 ---
 
-## 🎯 Featured Projects
+## <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="25px" alt="target"/> Featured Projects
 
 ### **Shiftly - Employee Management System**
 *Jan 2024 - Present*
@@ -117,7 +117,7 @@ Hardware project: Low-cost microcontroller-based ventilator for under-resourced 
 
 ---
 
-## 📚 Education
+## <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="25px" alt="education"/> Education
 
 - **BSc (Hons) in Information Technology** - University of Moratuwa *(2023 - Reading)*
 - **BEng (Hons) in Software Engineering** - University of Westminster (UK) *(2022 - Reading)*
