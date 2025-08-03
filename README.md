@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTBhanUyaHIxMmNremR2NjBqaWZlZzJqcmdhdWpqM2F6bmN5ZGY4NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GRPy8MKag9U1U88hzY/giphy.gif" width="200px" alt="animated header"/>
   <h1>
-    
     I'm <span style="color:rgb(77, 157, 249); font-weight: bold;">Thamindu Nirmal</span>
   </h1>
   
