@@ -111,46 +111,6 @@ Hardware project: Low-cost microcontroller-based ventilator for under-resourced 
 
 ---
 
-## 🏆 Leadership & Experience
-
-### **National Project Chair - IEEE CodeX Sri Lanka**
-*Jan 2025 - Present*
-- Led island-wide IEEE CodeX initiative across 15+ universities
-- Organizing IEEEXtreme 19.0, ICPC, NOI prep with **1000+ participants**
-
-### **Publicity Lead – IEEE SB UoM**
-*Oct 2024 - Present*
-- Directed event branding, visual strategy, and publicity
-- Handled MoraXtreme 9.0, Open Week 2024/25, and event coverage
-
-### **Co-Chairperson - MoraForesight 2.0**
-*Feb 2024 - Sep 2024*
-- Led flagship IEEE career event; raised **1M+ LKR**
-- Coordinated 9-month multi-team effort, **1000+ attendees**
-
-### **Chairperson - MoraXtreme 9.0**
-*Sep 2024 - Jan 2025*
-- Hosted first-ever two-round physical hackathon at UoM
-- Oversaw logistics, volunteers, and publicity with **1000+ participants**
-
-### **Batch Representative - Faculty of IT, University of Moratuwa**
-*Jan 2023 - Jun 2024*
-- Elected representative for **430 students**
-- Managed academic communication and batch activities
-
----
-
-## 🏅 Hackathons & Competitions
-
-- **IEEEXtreme 16.0 & 17.0** - Global 24-hour coding competitions (IEEE)
-- **CodeRush 2023 & 2024** - Competitive coding event by INTECS - UoM
-- **CodeRally 2025** - Competitive coding event by IEEE Computer Society - IIT
-- **Innovate with Ballerina 2025** - Innovation challenge using Ballerina Language
-- **UI/UX Benchmark 2.0** – AIESEC SLIIT design competition
-- **Mora UXplore 1.0** - Design Competition by IEEE - UoM
-
----
-
 ## 📚 Education
 
 - **BSc (Hons) in Information Technology** - University of Moratuwa *(2023 - Reading)*
@@ -159,23 +119,12 @@ Hardware project: Low-cost microcontroller-based ventilator for under-resourced 
 
 ---
 
-## 📞 Contact
-
-- **Phone:** +94 70 762 1025 / +94 71 462 1025
-- **Email:** thamindusrinirmal1@gmail.com
-- **LinkedIn:** [linkedin.com/in/thamindu-nirmal](https://linkedin.com/in/thamindu-nirmal)
-- **GitHub:** [github.com/ThaminduNirmal](https://github.com/ThaminduNirmal)
-
----
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThaminduNirmal&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThaminduNirmal&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ThaminduNirmal&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThaminduNirmal&theme=radical&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=c9d1d9" alt="GitHub Streak" />
 </div>
 
----
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ThaminduNirmal&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ThaminduNirmal&style=flat-square&color=58a6ff&label=Profile+Views" alt="Profile Views" />
 </div>
 
